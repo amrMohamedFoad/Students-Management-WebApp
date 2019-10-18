@@ -8,8 +8,13 @@ Concepts that i learned here
 2- comining Html, Css, JS with JSP
 
 3- what is servlet and its lifeCycle and how to use it?
+
 4- how to combine JSP(for presentation logic) and servlet(for business logic) using MVC Pattern.
+
 5- how to connect and deal with SQL DataBase using JDBC
+
 6- how to use Apache Tomacat and how to deploy WAR to it
+
 7- some tricks in core java
+
 8- Post/Redirect/Get Pattern
