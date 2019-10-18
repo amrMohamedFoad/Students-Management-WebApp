@@ -4,7 +4,9 @@ Building "CRUD" Web-App using ( JSP, Servlets, JDBC ) to manage Students DataBas
 Concepts that i learned here
 ----------------------------
 1- what is JSP and how to use it.
+
 2- comining Html, Css, JS with JSP
+
 3- what is servlet and its lifeCycle and how to use it?
 4- how to combine JSP(for presentation logic) and servlet(for business logic) using MVC Pattern.
 5- how to connect and deal with SQL DataBase using JDBC
